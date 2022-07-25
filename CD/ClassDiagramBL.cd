@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Ocean_Navigation.BL.Angle">
+    <Position X="0.5" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAgQAABAIAAAAAAABAAAAAAAEAAAAAgAAAAAAAA=</HashCode>
+      <FileName>BL\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ocean_Navigation.BL.Ship">
+    <Position X="5" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAIgAAAAAAIAACAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
