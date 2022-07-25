@@ -21,3 +21,15 @@ Create a class called ship that incorporates a ship’s number and location. Use
 ![dl](https://user-images.githubusercontent.com/96945594/180774256-03f8846b-bc44-4327-81ed-57c44bfc4b43.JPG)
 #### User Interfaces Layer
 ![ul](https://user-images.githubusercontent.com/96945594/180774218-cd021821-36c4-4d79-a989-46a625c3c042.JPG)
+
+## Sequence Diagram
+### Main
+![main](https://user-images.githubusercontent.com/96945594/180774668-98b87e79-d697-4308-a9ca-9254d0e94b3b.jpg)
+### Add ship’s
+![1 Add Ship](https://user-images.githubusercontent.com/96945594/180774672-8f3509cc-6441-45b2-a8ee-ad01a1236dd7.jpg)
+### View Ship Position
+![2  View Ship Position](https://user-images.githubusercontent.com/96945594/180774620-261d41b5-d9fd-4042-a2ec-ea2edf536bc1.jpg)
+### View Ship Serial Number
+![3 View Ship Serial Number](https://user-images.githubusercontent.com/96945594/180774648-e0244e6a-76f6-4b0a-b054-fdff515a7eed.jpg)
+### Change Ship Position
+![4 Change Ship Position](https://user-images.githubusercontent.com/96945594/180774658-b6738677-a910-42f7-8ca0-ad9fd69361ef.jpg)
